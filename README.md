@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanketnayak123
+- 👋 Hi, I’m @Sanket nayak
 - 👀 I’m interested in Software Testing 
 - 🌱 I’m currently learning Software testing 
 - 💞️ I’m looking to collaborate on ...
